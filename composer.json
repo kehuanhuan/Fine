@@ -1,0 +1,16 @@
+{
+    "name": "kehuanhuan/fine",
+    "description": "php framework kernel code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "khh",
+            "email": "1152018701@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Kehuanhuan\\": "./src" }
+    }
+}
